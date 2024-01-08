@@ -1,9 +1,8 @@
 ### Hi there, Héctor here! 👋
-
-* Currently a full-stack developer
-* Gamer who occasionally makes games
-* I navigate the web while continuously learning about new technologies and ways to improve through the power of AI.
-* ¡También hablo Español!
+Currently a full-stack developer.
+Gamer who occasionally makes games.
+Navigating the web while continuously learning about new technologies and ways to improve through the power of AI.
+¡También hablo Español!
 
 🌐 Web dev
 - React
