@@ -1,4 +1,35 @@
-### Hi there 👋
+### Hi there, Héctor here! 👋
+
+* Currently a full-stack developer
+* Gamer who occasionally makes games
+* I navigate the web while continuously learning about new technologies and ways to improve through the power of AI.
+* ¡También hablo Español!
+
+🌐 Web dev
+- React
+- Astro
+- Next.js
+- Express
+- GraphQL
+- TypeORM
+
+🎮 Game dev
+- Unreal Engine 5
+- Unity
+
+🤖 Machine Learning
+- Text Generation / LLM (Large Language Models)
+- Image Generation
+- Image Classification
+
+🎉 Likes & Interests
+- AI That Learns to Play Games
+- Twitch Bots and Commands
+- Discord Bots and Commands
+- Apps with React Native
+- Vtuber Technology
+- Game Bots and Scripts with PyAutoGUI
+- Web Scraping Tools
 
 <!--
 **Hectorreto/Hectorreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
